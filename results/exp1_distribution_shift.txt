@@ -1,0 +1,6 @@
+=== Experiment 1: Distribution Shift ===
+TV distance: 0.085900
+MMD distance: 0.000444
+Risk clean: 0.046000
+Risk corrupt: 0.145000
+Risk gap: 0.099000
