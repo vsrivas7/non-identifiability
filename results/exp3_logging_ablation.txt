@@ -1,0 +1,2 @@
+Output-only MSE: 0.111862
+With logging MSE: 0.000711
